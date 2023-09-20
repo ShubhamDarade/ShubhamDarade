@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Darade</h1>
-<h3 align="center">I am a dedicated computer engineering student with a passion for problem-solving and web development. Specializing in MERN stack and data structures and algorithms, I am always seeking opportunities to collaborate on exciting and innovative projects. I am a quick learner who is constantly adapting to new technologies and growing my skillset.</h3>
+<h3 align="center">I am a dedicated computer engineering student with a passion for problem-solving and web development. Specializing in MERN stack and data structures and algorithms.</h3>
 
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
